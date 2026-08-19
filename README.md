@@ -7,3 +7,4 @@
 🔗 **Live Demo:** https://mental-health-score-1-p5oz.onrender.com/
 
 > Note: hosted on Render's free tier, so the first load after inactivity may take 30–50s to spin up.
+> live demo added
